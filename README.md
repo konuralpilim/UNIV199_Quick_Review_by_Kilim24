@@ -21,5 +21,5 @@ Works with modern web browsers:
 
 ## Credits
 
-Jupyterlite
-Konuralp İlim
+- Jupyterlite
+- Konuralp İlim
