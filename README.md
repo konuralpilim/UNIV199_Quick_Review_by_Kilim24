@@ -1,6 +1,6 @@
 # Review The Whole Course Before Going To The Boss Battle
 
-[![Link](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://konuralpilim.github.io/UNIV199_Quick_Review_by_Kilim24/lab/index.html)
+[![Link](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://konuralpilim.github.io/UNIV199_Quick_Review_by_Kilim24/lab/index.html?path=UNIV199_Review_By_Kilim24.ipynb)
 
 ## ✨ Study online with no download, even offline! ✨
 
