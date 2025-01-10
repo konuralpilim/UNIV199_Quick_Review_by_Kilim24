@@ -1,5 +1,3 @@
-
-
 # Review The Whole Course Before Going To The Boss Battle
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
