@@ -1,6 +1,6 @@
 # Review The Whole Course Before Going To The Boss Battle
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![Link](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://konuralpilim.github.io/demo/lab/index.html)
 
 ## ✨ Study online with no download, even offline! ✨
 
@@ -20,4 +20,4 @@ Works with modern web browsers:
 ## Credits
 
 - Jupyterlite
-- Konuralp İlim
+- Konuralp İlim 
